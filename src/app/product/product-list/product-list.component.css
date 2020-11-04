@@ -1,0 +1,11 @@
+.cards {
+   flex-wrap: wrap; 
+   justify-content: center;
+}
+
+.card {
+   width: 18rem; 
+   height: 20rem; 
+   flex-direction:column; 
+   justify-content: space-around;
+}
